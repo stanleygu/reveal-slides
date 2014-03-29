@@ -1,0 +1,16 @@
+[
+  "index.md", [
+    "architecture.md",
+    "architecture-figure.md",
+    "architecture-figure-dev.md"
+  ],
+  [
+    "graphene.md",
+    "graphene-demo.md"
+  ],
+  [
+    "custom-plugin.md",
+    "recursive-html.md",
+    "ipython-management.md"
+  ]
+]
